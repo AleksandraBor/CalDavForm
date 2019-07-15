@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalDav form</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Titile">TextView</string>
+    <string name="Description">TextView</string>
+    <string name="SyncError">Ошибка синхронизации</string>
+    <string name="CalDav">Name</string>
+    <string name="Vlad">TextView</string>
+    <string name="textview1">TextView1</string>
+    <string name="button1">Button</string>
+    <string name="caldav"><![CDATA[Пожалуйста, укажите параметры подключения CalDAV и повторите попытку.]]></string>
+    <string name="autor">Владелец</string>
+    <string name="mail">aleksandra.bor@myoffice.team</string>
+</resources>
