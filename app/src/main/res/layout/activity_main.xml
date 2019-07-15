@@ -117,6 +117,7 @@
             android:fitsSystemWindows="true">
 
             <Button
+                android:background="@color/colorPrimary"
                 android:id="@+id/button11"
                 android:layout_width="382dp"
                 android:layout_height="match_parent"
