@@ -118,15 +118,15 @@
             android:fitsSystemWindows="true">
 
             <Button
-                android:background="@color/colorDocumentHighlight"
-                android:textColor="@color/colorWhite"
                 android:id="@+id/button11"
-                android:layout_width="382dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:layout_marginBottom="16dp"
-                android:text="@string/button1" />
+                android:background="@color/colorDocumentHighlight"
+                android:text="@string/button1"
+                android:textColor="@color/colorWhite" />
 
         </FrameLayout>
 
